@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 using namespace std;
-
+//add commit message for git
 //定义默认哈希表尺寸 16
 #define DEFAULT_SIZE 16
 
